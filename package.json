@@ -1,0 +1,34 @@
+{
+  "name": "discord-bwinfo",
+  "version": "0.1.0",
+  "description": "Discord bot that shows Starcraft Brood War information from Liquipedia",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "promise": "^8.1.0",
+    "superagent": "^6.1.0",
+    "superagent-promise": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/innerspirit/discord-bwinfo.git"
+  },
+  "keywords": [
+    "discord",
+    "starcraft",
+    "brood",
+    "war",
+    "liquipedia"
+  ],
+  "author": "Christian Maioli",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/innerspirit/discord-bwinfo/issues"
+  },
+  "homepage": "https://github.com/innerspirit/discord-bwinfo#readme"
+}
